@@ -1,0 +1,9 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+li:hover {
+  background-color: whitesmoke;
+  border-radius: 10%;
+}
